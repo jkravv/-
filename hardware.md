@@ -10,6 +10,7 @@
 * 2 x Servo motor
 * 2 x Servo motor βάση
 * 3 x Infrared Line tracking module
+* 1 x Color Sensor
 * 4 x Κινητήρες
 * 4 x Τροχοί 
 * 1 x Κουτί για μπαταρίες
